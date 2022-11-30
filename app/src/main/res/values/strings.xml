@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicLayoutCompose</string>
+    <string name="search">Search</string>
+    <string name="imgProfile">Image</string>
+    <string name="firstSection">First</string>
+    <string name="secondSection">Second</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+
+</resources>
